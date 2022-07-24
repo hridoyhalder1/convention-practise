@@ -29,3 +29,9 @@
 .div p {
     color: #6C6C6C;
 }
+/*=============footer============*/
+
+footer {
+    background-color: #0B0D17;
+    padding: 70px 0;
+}
